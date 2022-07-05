@@ -75,19 +75,19 @@ Dangerous certain consequences of an action.
 7. ## Ссылки
 [Обычная ссылка в строке](https://docs.microsoft.com/ru-ru/contribute/how-to-write-links)
 
-[Обычная ссылка с title](https://www.google.com "Сайт Google")
+[Обычная ссылка с title](https://gb.ru/posts/soveti-pro-git "Советы для тех, кто осваивает Git")
 
 [Ссылка со сноской][Произвольный регистронезависимый текст]
 
-[Относительная ссылка на документ](../blob/master/LICENSE)
+[Еще одна ссылка со сноской. Здесь тренажер Git][1]
 
-[Для ссылок со сноской можно использовать цифры][1]
+[Относительная ссылка на документ](../blob/master/LICENSE)
 
 Или можно просто вставить ссылку в квадратные скобки [текст ссылки]
 
 
 [произвольный регистронезависимый текст]: https://docs.microsoft.com/ru-ru/contribute/how-to-write-links
-[1]: http://slashdot.org
+[1]: https://learngitbranching.js.org
 [текст ссылки]: http://www.reddit.com
 
 8. ## Код и подцветка синтаксиса
